@@ -10,7 +10,7 @@ sites:
   - name: LE Connection
     check: "tcp-ping"
     url: $LE_CONNECTION
-    port: 6066
+    port: 8691
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
