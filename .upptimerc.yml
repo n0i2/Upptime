@@ -7,14 +7,10 @@ sites:
     check: "tcp-ping"
     url: $LE_VM
     port: 80
-  - name: Google DNS 1
+  - name: LE Connection
     check: "tcp-ping"
-    url: 8.8.4.4
-    port: 53
-  - name: Google DNS 2
-    check: "tcp-ping"
-    url: 8.8.8.8
-    port: 53
+    url: $LE_CONNECTION
+    port: 6066
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
