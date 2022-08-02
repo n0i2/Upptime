@@ -1,23 +1,21 @@
 [
   {
-    "name": "n0i2 - Grafana",
+    "name": "LE VM",
     "url": "$LE_VM",
     "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "n0i2-grafana",
+    "slug": "le-vm",
     "status": "up",
-    "uptime": "67.52%",
-    "uptimeDay": "67.52%",
-    "uptimeWeek": "67.52%",
-    "uptimeMonth": "67.52%",
-    "uptimeYear": "67.52%",
-    "time": 174,
-    "timeDay": 174,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
-    "dailyMinutesDown": {
-      "2022-08-02": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 154,
+    "timeDay": 154,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google DNS 1",
