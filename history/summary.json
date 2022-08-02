@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/grafana.n0i2.eu",
     "slug": "n0i2-grafana",
     "status": "down",
-    "uptime": "1.21%",
-    "uptimeDay": "1.21%",
-    "uptimeWeek": "1.21%",
-    "uptimeMonth": "1.21%",
-    "uptimeYear": "1.21%",
+    "uptime": "0.99%",
+    "uptimeDay": "0.99%",
+    "uptimeWeek": "0.99%",
+    "uptimeMonth": "0.99%",
+    "uptimeYear": "0.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-02": 4
+      "2022-08-02": 5
     }
   },
   {
