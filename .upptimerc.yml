@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: n0i2 - Grafana
     check: "tcp-ping"
-    url: https://grafana.n0i2.eu
-    port: 3000
+    url: $LE_VM
+    port: 80
   - name: Google DNS 1
     check: "tcp-ping"
     url: 8.8.4.4
