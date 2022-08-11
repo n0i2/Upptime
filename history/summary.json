@@ -22,19 +22,19 @@
     "url": "$LE_CONNECTION",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "le-connection",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 189,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 187,
     "timeDay": 162,
-    "timeWeek": 188,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "timeWeek": 185,
+    "timeMonth": 187,
+    "timeYear": 187,
     "dailyMinutesDown": {
-      "2022-08-11": 0
+      "2022-08-11": 25
     }
   }
 ]
