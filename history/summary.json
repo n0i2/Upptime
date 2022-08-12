@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "le-oracle",
     "status": "up",
-    "uptime": "36.15%",
-    "uptimeDay": "36.15%",
-    "uptimeWeek": "36.15%",
-    "uptimeMonth": "36.15%",
-    "uptimeYear": "36.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 153,
     "timeWeek": 153,
     "timeMonth": 153,
     "timeYear": 153,
-    "dailyMinutesDown": {
-      "2022-08-12": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LE Connection",
