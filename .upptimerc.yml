@@ -10,7 +10,7 @@ sites:
   - name: LE Oracle
     check: "tcp-ping"
     url: $LE_ORACLE
-    port: 80
+    port: 2266
   - name: LE Connection
     check: "tcp-ping"
     url: $LE_CONNECTION
