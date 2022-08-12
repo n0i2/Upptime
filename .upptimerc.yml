@@ -7,6 +7,10 @@ sites:
     check: "tcp-ping"
     url: $LE_VM
     port: 80
+  - name: LE Oracle
+    check: "tcp-ping"
+    url: $LE_ORACLE
+    port: 80
   - name: LE Connection
     check: "tcp-ping"
     url: $LE_CONNECTION
