@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "le-vm",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.81%",
+    "uptimeDay": "94.26%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 170,
     "timeDay": 124,
     "timeWeek": 162,
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2022-08-31": 0
+      "2022-09-01": 76,
+      "2022-08-31": 7
     }
   },
   {
