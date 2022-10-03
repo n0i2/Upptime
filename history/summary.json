@@ -2,7 +2,7 @@
   {
     "name": "LE VM",
     "url": "$LE_VM",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "le-vm",
     "status": "up",
     "uptime": "99.77%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 164,
-    "timeDay": 123,
-    "timeWeek": 146,
-    "timeMonth": 156,
-    "timeYear": 164,
+    "time": 163,
+    "timeDay": 127,
+    "timeWeek": 143,
+    "timeMonth": 155,
+    "timeYear": 163,
     "dailyMinutesDown": {
       "2022-09-01": 198,
       "2022-08-31": 7
@@ -23,7 +23,7 @@
   {
     "name": "LE Oracle",
     "url": "$LE_ORACLE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "le-oracle",
     "status": "up",
     "uptime": "100.00%",
@@ -32,16 +32,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 87,
-    "timeWeek": 112,
-    "timeMonth": 121,
+    "timeDay": 91,
+    "timeWeek": 108,
+    "timeMonth": 120,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
   {
     "name": "LE Connection",
     "url": "$LE_CONNECTION",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "le-connection",
     "status": "up",
     "uptime": "99.97%",
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 199,
-    "timeDay": 169,
-    "timeWeek": 193,
-    "timeMonth": 198,
+    "timeDay": 166,
+    "timeWeek": 189,
+    "timeMonth": 197,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2022-08-11": 25
