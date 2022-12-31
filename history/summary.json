@@ -43,7 +43,7 @@
     "url": "$LE_CONNECTION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "le-connection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
@@ -55,6 +55,7 @@
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {
+      "2022-12-31": 0,
       "2022-12-25": 69,
       "2022-12-14": 17,
       "2022-08-11": 25
